@@ -1,0 +1,7 @@
+<suite name="Suite Selenium" >
+ <test name="FirstTest" >
+  <classes>
+   <class name="com.selenium.Launch" />
+  </classes>
+ </test>
+</suite>

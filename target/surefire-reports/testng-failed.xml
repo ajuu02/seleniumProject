@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite Selenium]">
+  <test name="FirstTest(failed)">
+    <classes>
+      <class name="com.selenium.Launch">
+        <methods>
+          <include name="f"/>
+          <include name="test1"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.selenium.Launch -->
+    </classes>
+  </test> <!-- FirstTest(failed) -->
+</suite> <!-- Failed suite [Suite Selenium] -->
